@@ -1,0 +1,1 @@
+1. num1 and num2 were strings, so it was just concatenating them and storing it in result, which was then a string as well.
